@@ -1,0 +1,42 @@
+.parent {
+    position:relative;
+    top:0;
+    left:0;
+}
+
+.image1 {
+   max-width: 100%;
+   height: auto;
+   position: relative;
+   top: 0;
+   left: 0;
+   border: 1px solid #000000
+}
+
+.image2 {
+    position:absolute;
+    top: 0;
+    left:420px;
+    border:1px solid #000000;
+    display: flex;
+
+}
+
+#Trieste {
+    position: absolute;
+    top: 130px;
+    left: 520px;
+    background-color:tomato;
+    color: black;
+    font-size: 21px;
+    border-radius: 30px;
+    text-decoration: none;
+    padding:8px;
+    border-style:solid;
+    display: flex;
+}
+
+
+
+
+
